@@ -1,2 +1,2 @@
 # myworld
-My first repository on GitHub. Created byM Aricar
+My first repository on GitHub. Created by Maricar
